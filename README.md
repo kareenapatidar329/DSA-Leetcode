@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
 |  |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
