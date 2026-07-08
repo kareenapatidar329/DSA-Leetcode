@@ -1,3 +1,5 @@
+//tc O(m+n)  //sc=O(n) & O(1) when 26 letters
+
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
         HashMap<Character,Integer> map = new HashMap<>();
