@@ -1,3 +1,5 @@
+//tc = O(n)  //sc = O(1)
+
 class Solution {
     public int maxArea(int[] height) {
         int left = 0;
