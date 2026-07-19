@@ -1,3 +1,5 @@
+//tc = O(n)  //sc O(1)
+
 class Solution {
     public int searchInsert(int[] nums, int target) {
         int left = 0;
