@@ -1,36 +1,39 @@
+//tc O(n log maxPile)  //sc(1)
+
 class Solution {
 
     public int minEatingSpeed(int[] piles, int h) {
 
-        int low = 1;
-        int high = 0;
-
-        for (int pile : piles) {
-            high = Math.max(high, pile);
+        int maxPile = 0;
+        for(int pile : piles){
+            maxPile = Math.max(maxPile,pile);
         }
 
-        while (low < high) {
+        int low = 1;
+        int high = maxPile;
+        int ans = maxPile;
 
-            int mid = low + (high - low) / 2;
+        while(low <= high){
+            int mid = low + (high - low)/2;
 
-            if (canFinish(piles, h, mid)) {
-                high = mid;
-            } else {
-                low = mid + 1;
+            if(canEat( piles, h , mid)){
+               ans = mid;
+               high = mid -1;
+            }
+            else{
+                low = mid +1;
             }
         }
+        return ans;
 
-        return low;
     }
+    private boolean canEat(int[] piles, int h , int k){
+        long totalHour = 0;
 
-    private boolean canFinish(int[] piles, int h, int speed) {
+        for(int pile:piles){
+            totalHour += (pile + k -1) / k;
 
-        int hours = 0;
-
-        for (int pile : piles) {
-            hours += (pile + speed - 1) / speed;
         }
-
-        return hours <= h;
+        return totalHour <= h;
     }
 }
