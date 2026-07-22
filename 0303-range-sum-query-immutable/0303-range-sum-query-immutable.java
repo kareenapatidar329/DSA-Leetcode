@@ -1,4 +1,4 @@
-//tc = O(n) : constructor and sum O(1)  //sc = O(n)
+//tc = O(n) : constructor and sum O(1) total is O(n + q)  //sc = O(n)
 
 class NumArray {
 
