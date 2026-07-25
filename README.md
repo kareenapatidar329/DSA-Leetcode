@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Binary Search
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0567-permutation-in-string) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -148,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
