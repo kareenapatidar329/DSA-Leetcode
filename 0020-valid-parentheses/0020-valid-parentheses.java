@@ -1,28 +1,29 @@
+//tc O(n)  //sc O(n)
+
 class Solution {
-    public char getVal(char ch){
-        switch(ch){
-            case ']': return '[';
-            case '}': return '{';
-            case ')': return '(';
-            default : return '#';
-        }
-    }
     public boolean isValid(String s) {
-        String opening = "({[";
-        String closing = "]})";
-        Stack<Character>st = new Stack<>();
-
+        Stack <Character> stack = new Stack<>();
+   
         for(char ch : s.toCharArray()){
-            if (opening.indexOf(ch)!= -1){
-                st.push(ch);
-               } else{
-                    if(st.size()==0) return false;
-                    char tmp = st.pop();
-                    if(getVal(ch)!=tmp)
-
+            if(ch == '(' || ch == '[' || ch == '{'){
+                stack.push(ch);
+            }
+            else{
+                if(stack.isEmpty()){
                     return false;
                 }
+                char top = stack.peek();
+
+                if((ch == ')' && top != '(')||
+                   (ch == ']' && top != '[') ||
+                   (ch == '}' && top != '{')){
+                      
+                    return false;
+                   }
+                
+                stack.pop();
             }
-            return st.size()==0;
         }
+        return stack.isEmpty();
     }
+}
