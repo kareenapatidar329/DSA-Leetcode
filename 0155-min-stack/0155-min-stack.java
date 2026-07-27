@@ -1,3 +1,5 @@
+//tc = O(1)  //sc = O(n)
+
 class MinStack {
 
     Stack<Integer> mainStack = new Stack<>();
