@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
