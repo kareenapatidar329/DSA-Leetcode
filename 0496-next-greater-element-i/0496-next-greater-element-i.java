@@ -1,7 +1,9 @@
+//tc O(n+m)  //sc=O(n+m)
+
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
         Stack<Integer> stack = new Stack<>();
-        HashMap<Integer,Integer> map = new HashMap<>();
+        HashMap<Integer,Integer>map = new HashMap<>();
 
         for(int i=0; i<nums2.length; i++){
             int curr = nums2[i];
@@ -13,11 +15,11 @@ class Solution {
         }
         while(!stack.isEmpty()){
             int element = stack.pop();
-            map.put(element,-1);
+            map.put(element , -1);
         }
-        int [] ans = new int [nums1.length];
-        for(int i=0;i<nums1.length; i++){
-            ans [i] = map.get(nums1[i]);
+        int[] ans = new int [nums1.length];
+        for(int i=0; i<nums1.length; i++){
+            ans[i] = map.get(nums1[i]);
         }
         return ans;
     }
