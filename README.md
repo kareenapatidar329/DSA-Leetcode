@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0383-ransom-note) |
+| [0402-remove-k-digits](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0739-daily-temperatures) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Dynamic Programming
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0739-daily-temperatures) |
