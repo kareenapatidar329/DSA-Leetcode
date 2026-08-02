@@ -1,3 +1,4 @@
+//tc= O(n)  //sc = O(n)
 class RecentCounter {
     Queue<Integer> q = new LinkedList<>();
     public RecentCounter() {
