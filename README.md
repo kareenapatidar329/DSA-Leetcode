@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0206-reverse-linked-list](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -218,12 +221,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
