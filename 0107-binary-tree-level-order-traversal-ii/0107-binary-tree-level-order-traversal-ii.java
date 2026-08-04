@@ -13,6 +13,8 @@
  *     }
  * }
  */
+
+ //tc = O(n)  //sc = O(n)
 class Solution {
     public List<List<Integer>> levelOrderBottom(TreeNode root) {
         List<List<Integer>> ans = new LinkedList<>();
