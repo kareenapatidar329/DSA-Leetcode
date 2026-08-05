@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0704-binary-search) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0542-01-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
+| [0542-01-matrix](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
