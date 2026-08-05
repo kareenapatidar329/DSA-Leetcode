@@ -1,4 +1,4 @@
-//tc=O(n)  //sc= O(n)
+//tc=O(m*n)  //sc= O(rows*cols)
 
 class Solution {
     public int orangesRotting(int[][] grid) {
