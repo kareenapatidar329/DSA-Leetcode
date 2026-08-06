@@ -1,32 +1,37 @@
+//tc = O(1)amortized  //sc = O(n)
+
 class MyQueue {
-    Stack<Integer> in;
-    Stack<Integer> out;
+Stack<Integer>input = new Stack<>();
+Stack<Integer>output = new Stack<>();
     public MyQueue() {
-        in = new Stack<>();
-        out = new Stack<>();
         
     }
     
     public void push(int x) {
-        in.push(x);
+       input.push(x);
     }
     
     public int pop() {
-        peek();
-        return out.pop();
+         if(output.isEmpty()){
+            while(!input.isEmpty()){
+                output.push(input.pop());
+            }
+         }
+            return output.pop();
+        
     }
     
     public int peek() {
-        if(out.isEmpty()){
-            while(!in.isEmpty()){
-                out.push(in.pop());
-            }
+        if(output.isEmpty()){
+          while(!input.isEmpty()){
+            output.push(input.pop());
+          }
         }
-        return out.peek();
+        return output.peek();
     }
     
     public boolean empty() {
-        return in.isEmpty() && out.isEmpty();
+        return input.isEmpty() && output.isEmpty();
     }
 }
 
