@@ -10,15 +10,17 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
+
         ListNode prev = null;
         ListNode curr = head;
 
-        while(curr != null){
-            ListNode next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
+        while (curr != null) {
+            ListNode next = curr.next; // next node save karo
+            curr.next = prev;          // link reverse karo
+            prev = curr;               // prev ko aage badhao
+            curr = next;               // curr ko aage badhao
         }
+
         return prev;
     }
 }
