@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0641-design-circular-deque) |
+| [0707-design-linked-list](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0641-design-circular-deque) |
+| [0707-design-linked-list](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
