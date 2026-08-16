@@ -8,30 +8,32 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
- //tc = O(n+m)  //sc= O(1)
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+
         ListNode dummy = new ListNode(-1);
         ListNode curr = dummy;
 
-        while(list1 != null && list2 != null){
-            if(list1.val <= list2.val){
+        while (list1 != null && list2 != null) {
+
+            if (list1.val <= list2.val) {
                 curr.next = list1;
                 list1 = list1.next;
-            }
-            else{
+            } else {
                 curr.next = list2;
                 list2 = list2.next;
-
             }
+
             curr = curr.next;
         }
-        //last me jo bach gya list me vo
-        if(list1 != null){
+
+        // Jo list bach gayi hai, usko directly attach kar do
+        if (list1 != null) {
             curr.next = list1;
-        }else{
+        } else {
             curr.next = list2;
         }
+
         return dummy.next;
     }
 }
