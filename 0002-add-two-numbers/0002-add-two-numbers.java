@@ -8,29 +8,34 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+ //tc = O(max(N,M))  //sc = O(max(N,M))
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode dummy = new ListNode(0);
         ListNode curr = dummy;
-
         int carry = 0;
 
-        while (l1 != null || l2 != null || carry != 0) {
+        while(l1 != null || l2 != null || carry != 0){
+             int val1 = (l1 != null) ? l1.val : 0;
+             int val2 = (l2 != null) ? l2.val : 0;
 
-            int x = (l1 != null) ? l1.val : 0;
-            int y = (l2 != null) ? l2.val : 0;
+             //core logic
+             int sum = val1 + val2 + carry;
+             int digit = sum % 10;
+             carry = sum / 10;
 
-            int sum = x + y + carry;
+             curr.next = new ListNode(digit);
+             curr = curr.next;
 
-            curr.next = new ListNode(sum % 10);
-            carry = sum / 10;
+             if(l1 != null){
+                l1 = l1.next;
+             }
+             if(l2 != null){
+                l2 = l2.next;
+             }
 
-            curr = curr.next;
 
-            if (l1 != null) l1 = l1.next;
-            if (l2 != null) l2 = l2.next;
         }
-
         return dummy.next;
     }
 }
