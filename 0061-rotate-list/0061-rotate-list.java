@@ -8,33 +8,48 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
- //tc = O(n) //sc = O(1)
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
-        if (head == null || head.next == null  || k==0){
+
+        // Empty / single node / no rotation
+        if (head == null || head.next == null || k == 0) {
             return head;
         }
-        //length + tail ?
+
+        // Find length and last node
         int n = 1;
         ListNode tail = head;
 
-        while(tail.next != null){
+        while (tail.next != null) {
             tail = tail.next;
             n++;
         }
-         k = k % n;
-         if(k==0){
+
+        // Remove unnecessary full rotations
+        k = k % n;
+
+        if (k == 0) {
             return head;
-         }
-         //new tail find
-         int steps = n-k-1;
-         ListNode newTail = head;
-         for(int i=0; i<steps; i++){
+        }
+
+        // Find new tail
+        int steps = n - k - 1;
+
+        ListNode newTail = head;
+
+        for (int i = 0; i < steps; i++) {
             newTail = newTail.next;
-         }
-         ListNode newHead = newTail.next;
-         tail.next = head;
-         newTail.next = null;
-         return newHead;
+        }
+
+        // Node after new tail becomes new head
+        ListNode newHead = newTail.next;
+
+        // Make list circular
+        tail.next = head;
+
+        // Break circle at new tail
+        newTail.next = null;
+
+        return newHead;
     }
 }
