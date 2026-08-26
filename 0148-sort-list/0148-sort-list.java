@@ -8,8 +8,6 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-
- //tc = O(n log n) //sc = O(log n)
 class Solution {
 
     public ListNode sortList(ListNode head) {
