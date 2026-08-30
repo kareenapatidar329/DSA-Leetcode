@@ -9,7 +9,6 @@
  * }
  */
 class Solution {
-
     public ListNode sortList(ListNode head) {
 
         // Base case
@@ -17,49 +16,51 @@ class Solution {
             return head;
         }
 
-        // Find end of first half
+        // Find middle
         ListNode slow = head;
-        ListNode fast = head.next;
+        ListNode fast = head;
 
-        while (fast != null && fast.next != null) {
+        while (fast.next != null && fast.next.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
 
-        // Split
+        // Split into two lists
         ListNode second = slow.next;
         slow.next = null;
 
         // Sort both halves
-        ListNode left = sortList(head);
-        ListNode right = sortList(second);
+        ListNode first = sortList(head);
+        second = sortList(second);
 
-        // Merge
-        return merge(left, right);
+        // Merge two sorted lists
+        return merge(first, second);
     }
 
-    private ListNode merge(ListNode l1, ListNode l2) {
+    private ListNode merge(ListNode first, ListNode second) {
 
         ListNode dummy = new ListNode(0);
         ListNode curr = dummy;
 
-        while (l1 != null && l2 != null) {
+        while (first != null && second != null) {
 
-            if (l1.val <= l2.val) {
-                curr.next = l1;
-                l1 = l1.next;
+            if (first.val <= second.val) {
+                curr.next = first;
+                first = first.next;
             } else {
-                curr.next = l2;
-                l2 = l2.next;
+                curr.next = second;
+                second = second.next;
             }
 
             curr = curr.next;
         }
 
-        if (l1 != null) {
-            curr.next = l1;
-        } else {
-            curr.next = l2;
+        if (first != null) {
+            curr.next = first;
+        }
+
+        if (second != null) {
+            curr.next = second;
         }
 
         return dummy.next;
