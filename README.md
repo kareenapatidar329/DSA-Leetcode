@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0242-valid-anagram) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -321,4 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0148-sort-list) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
