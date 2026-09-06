@@ -1,3 +1,5 @@
+//tc= O(n) //sc=O(1)
+
 class Solution {
     public void sortColors(int[] nums) {
        int low = 0;
