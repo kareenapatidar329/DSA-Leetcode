@@ -1,4 +1,4 @@
-//tc = O(n log n * k)  //sc = (n)
+//tc = O(n log n * k)  //sc = O(n)
 
 class Solution {
     public String largestNumber(int[] nums) {
