@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0290-word-pattern) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0242-valid-anagram) |
 ## Counting
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Dynamic Programming
