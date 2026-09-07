@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Counting
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Dynamic Programming
 |  |
 | ------- |
