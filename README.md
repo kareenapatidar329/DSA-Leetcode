@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0179-largest-number) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
