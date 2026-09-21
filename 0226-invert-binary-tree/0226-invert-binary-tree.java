@@ -13,16 +13,19 @@
  *     }
  * }
  */
- //tc = O(n)  //sc = O(h)
 class Solution {
     public TreeNode invertTree(TreeNode root) {
-        if(root == null){
+
+        if (root == null) {
             return null;
         }
+
+        // left and right swap
         TreeNode temp = root.left;
         root.left = root.right;
         root.right = temp;
 
+        // invert both subtrees
         invertTree(root.left);
         invertTree(root.right);
 
