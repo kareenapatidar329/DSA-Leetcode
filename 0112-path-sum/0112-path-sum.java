@@ -13,19 +13,24 @@
  *     }
  * }
  */
-
- //tc = O(n)  //sc= O(h)
 class Solution {
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        if(root == null){
+
+        // Base case: empty tree
+        if (root == null) {
             return false;
         }
+
+        // Subtract current node's value
         targetSum -= root.val;
 
-        if(root.left == null && root.right == null ){
+        // Check only when we reach a leaf
+        if (root.left == null && root.right == null) {
             return targetSum == 0;
         }
-        return hasPathSum (root.left , targetSum)
-           ||  hasPathSum (root.right , targetSum);
+
+        // Check either left or right path
+        return hasPathSum(root.left, targetSum)
+            || hasPathSum(root.right, targetSum);
     }
 }
