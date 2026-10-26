@@ -1,3 +1,5 @@
+//tc = O(n * 2^n) //sc = O(n)
+
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
 
