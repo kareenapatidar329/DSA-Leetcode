@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
@@ -447,5 +448,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0113-path-sum-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/kareenapatidar329/DSA-Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
