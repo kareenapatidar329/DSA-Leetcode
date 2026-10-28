@@ -1,35 +1,23 @@
-//tc = O(n * 2^n) //sc = O(n)
+import java.util.*;
 
 class Solution {
-    public List<List<Integer>> subsets(int[] nums) {
+public List<List<Integer>> subsets(int[] nums) {
+List<List<Integer>> result = new ArrayList<>();
+result.add(new ArrayList<>());
 
-        List<List<Integer>> ans = new ArrayList<>();
-        List<Integer> current = new ArrayList<>();
+    for (int num : nums) {
+        List<List<Integer>> newSubsets = new ArrayList<>();
 
-        backtrack(0, nums, current, ans);
-
-        return ans;
-    }
-
-    private void backtrack(
-            int start,
-            int[] nums,
-            List<Integer> current,
-            List<List<Integer>> ans) {
-
-        // Store a copy of the current subset
-        ans.add(new ArrayList<>(current));
-
-        for (int i = start; i < nums.length; i++) {
-
-            // Include the current element
-            current.add(nums[i]);
-
-            // Explore remaining elements
-            backtrack(i + 1, nums, current, ans);
-
-            // Backtrack: exclude the current element
-            current.remove(current.size() - 1);
+        for (List<Integer> subset : result) {
+            List<Integer> newSubset = new ArrayList<>(subset);
+            newSubset.add(num);
+            newSubsets.add(newSubset);
         }
+
+        result.addAll(newSubsets);
     }
+
+    return result;
+}
+
 }
