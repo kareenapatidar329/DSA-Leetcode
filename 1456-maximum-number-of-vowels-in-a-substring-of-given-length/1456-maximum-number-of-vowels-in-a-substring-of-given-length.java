@@ -1,31 +1,37 @@
-//tc = O(n) //sc = O(1)
-
 class Solution {
     public int maxVowels(String s, int k) {
         int count = 0;
-        for(int i=0; i<k; i++){
-            if(isVowel(s.charAt(i))){
+        int max = 0;
+
+        for (int i = 0; i < k; i++) {
+            char ch = s.charAt(i);
+
+            if (ch == 'a' || ch == 'e' || ch == 'i' ||
+                ch == 'o' || ch == 'u') {
                 count++;
             }
         }
-            int maxCount = count;
 
-            for(int i=k; i<s.length(); i++){
-                char removeChar = s.charAt(i-k);
-                char addChar = s.charAt(i);
+        max = count;
 
-                if(isVowel(removeChar)){
-                    count --;
-                }
-                if(isVowel(addChar)){
-                    count++;
-                }
-                maxCount = Math.max(maxCount,count);
+        for (int i = k; i < s.length(); i++) {
+
+            char remove = s.charAt(i - k);
+            char add = s.charAt(i);
+
+            if (remove == 'a' || remove == 'e' || remove == 'i' ||
+                remove == 'o' || remove == 'u') {
+                count--;
             }
-            return maxCount;
+
+            if (add == 'a' || add == 'e' || add == 'i' ||
+                add == 'o' || add == 'u') {
+                count++;
+            }
+
+            max = Math.max(max, count);
         }
-        private boolean isVowel(char ch){
-            return ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u';
-        
+
+        return max;
     }
 }
